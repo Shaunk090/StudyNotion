@@ -14,7 +14,6 @@ StudyNotion is a fully functional EdTech platform that enables users to create, 
 - Dependencies
 - Folder Structure
 - Contributing
-- Contact
 
 ## Introduction
 
@@ -167,16 +166,10 @@ The repository follows a structured folder organization:
 
 - `public`: Public assets and files for the front end.
 - `README.md`: Project documentation.
-- `.env`: Environment variables configuration file.
+- `.env.example`: Template for local environment variables. Keep your actual `.env` file private.
 - `package.json`: Dependency and script configuration for Node.js.
 
 ## Contributing
 
 Contributions are welcome If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
-
-## Contact
-
-- Email: [ak956901@gmail.com](mailto:ak956901@gmail.com)
-- LinkedIn: [https://in.linkedin.com/in/ashutosh-kumar-170242189](https://in.linkedin.com/in/ashutosh-kumar-170242189)
-- Website: [Ashutosh Kumar](https://portfolio-five-rho-46.vercel.app/)
 
